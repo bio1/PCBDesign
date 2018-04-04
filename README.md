@@ -1,2 +1,3 @@
 # PCBDesign
-Eagle Tutorials
+Babs Ogunbanwo
+ENGI 301
