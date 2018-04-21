@@ -1,0 +1,16 @@
+{
+    "author": {
+        "email": "babs.ogunbanwo@rice.edu",
+        "name": "Babs Ogunbanwo"
+    },
+    "description": {
+        "EN": "CAM job description goes here."
+    },
+    "output_type": "zip",
+    "outputs": [
+    ],
+    "timestamp": "2018-04-20T22:32:55",
+    "type": "EAGLE CAM job",
+    "units": "metric",
+    "version": "8.6.1"
+}
